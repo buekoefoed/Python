@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b489f612-4b19-47a1-8ef8-3ea6af41eb35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/Ex01 Class excercise.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/Ex1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Sem4Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sem4Python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="c0d8222e-6a1e-4403-902b-4c474849594e">
-    <option name="files">
-      <option value="Week1\Ex01 Class excercise.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="c0d8222e-6a1e-4403-902b-4c474849594e" />
   <component name="ProjectId" id="1X1VQFexxrXpYybAcpLb92TXone" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -55,10 +46,29 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Sem4Python/Skema/dat4sem2020spring-python-master/Ex01 Class excercise.ipynb" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Sem4Python/Skema2/dat4sem2020spring-python-master/Ex3/Student.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
+    <configuration name="Student" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sem4Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/Sem4Python/Skema2/dat4sem2020spring-python-master/Ex3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/Sem4Python/Skema2/dat4sem2020spring-python-master/Ex3/Student.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Sem4Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,6 +91,11 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Student" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -93,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1580213569661</updated>
       <workItem from="1580213582502" duration="6216000" />
+      <workItem from="1581425481278" duration="1222000" />
     </task>
     <servers />
   </component>
@@ -100,13 +116,67 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1580219670385">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581429228083">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1580219670385" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1580466216727">
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1581429228083" />
+    <state x="421" y="97" key="FileChooserDialogImpl" timestamp="1581429371311">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580466216727" />
+    <state x="421" y="97" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581429371311" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1581429379527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581429379527" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1581429379527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581429379527" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1581429379527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581429379527" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1581429379527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581429379527" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1581429379528">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581429379528" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1581429379528">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1581429379528" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1581429379527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1581429379527" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1581429379528">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1581429379528" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1581429373283">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581429373283" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1581425569466">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581425569466" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Documents/Sem4Python/Skema2/dat4sem2020spring-python-master/Ex3/Student.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Sem4Python$Student.coverage" NAME="Student Coverage Results" MODIFIED="1581429232948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/Sem4Python/Skema2/dat4sem2020spring-python-master/Ex3" />
   </component>
 </project>
